@@ -1,0 +1,10 @@
+db: 'ca-2004-01.csv' 
+var_agrupamento:
+  - Estado
+  - Regiao
+  - Bairro
+  - Produto
+var_comparacao:
+  - Valor de Venda
+  - Valor de Compra
+output_dir: 'graficos/'
